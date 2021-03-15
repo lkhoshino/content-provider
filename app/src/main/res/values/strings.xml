@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProviderTest</string>
+    <string name="note_title_hint">titulo</string>
+    <string name="note_description_hint">descricao</string>
+    <string name="remove_text">Remover</string>
+
+</resources>
